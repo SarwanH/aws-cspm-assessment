@@ -1,5 +1,7 @@
 Assessment Type: Cloud Security Posture Management (CSPM)
+
 Cloud Provider: AWS
+
 Account Type: Single AWS account (Free Tier)
 
 Services in Scope:
